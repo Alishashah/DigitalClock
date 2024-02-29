@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+.clock{
+    background-color: rgb(139, 50, 112);
+    height: 80px;
+    width: 300px;
+    border-radius: 10px;
+    margin: auto;
+    color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}
+
+.container{
+    margin-top: 250px;
+}
